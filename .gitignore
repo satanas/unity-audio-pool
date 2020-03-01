@@ -1,0 +1,23 @@
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+Library/
+Dist/
+obj/
+Logs/
+
+# ===================== #
+# IDE generated         #
+# ===================== #
+.idea/*
+*.csproj
+*.unityproj
+*.sln
+*.pidb
+*.userprefs
+
+# ============ #
+# OS generated #
+# ============ #
+*.DS_Store
